@@ -65,7 +65,7 @@ signup.verifyMacIsTheExpensiveLaptop();
 signup.cartTotalVerification();
 //Thread.sleep(3000);
 }
-
+//first commit
 /*
 Assignment: 2
 
