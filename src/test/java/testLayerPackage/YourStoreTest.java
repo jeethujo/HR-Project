@@ -66,10 +66,7 @@ signup.cartTotalVerification();
 //Thread.sleep(3000);
 }
 //first commit
-//second commit
-//Third commit
-//Fourth commit
-//Fifth commit
+
 /*
 Assignment: 2
 
